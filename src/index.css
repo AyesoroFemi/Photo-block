@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  /* .nav-link {
+    @apply bg-white py-1 px-2 rounded-lg text-sm font-semibold;
+  } */
+}

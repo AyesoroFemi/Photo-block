@@ -5,7 +5,7 @@ import Gallery from "./components/Gallery";
 function App() {
   return (
     <div className="">
-      <div className="max-w-screen-xl mx-4 lg:mx-auto px-4 md:px-16 py-8 rounded-2xl bg-gray-200 mt-40">
+      <div className="max-w-screen-xl mx-4 lg:mx-auto px-4 md:px-16 py-8 rounded-2xl bg-gray-200 my-10 lg:mt-40">
         <h1 className="text-2xl md:text-3xl font-serif mt-4">
           Popular Collections
         </h1>
